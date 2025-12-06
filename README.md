@@ -9,8 +9,6 @@ Hey there, I’m Manvesh Bhoyar — 19 years old, a Full Stack Developer who lov
 
 ## 💻 Tech Stack
 
-## 💻 Tech Stack
-
 ### 🔤 Languages  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
