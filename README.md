@@ -43,6 +43,7 @@ Hey there, I’m Manvesh Bhoyar — 19 years old, a Full Stack Developer who lov
 
 ### 🗄️ Database  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
