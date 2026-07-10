@@ -1,7 +1,13 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hey there, I’m Manvesh Bhoyar — 19 years old, a Full Stack Developer who loves to build,<br>break, experiment and push boundaries with code.<br><br>I enjoy collaborating on Open Source, exploring AI/ML, and experimenting with emerging<br>technologies that can shape the future. I believe in building systems that scale,<br>products that make sense, and technology that moves people forward.<br><br>I’m deeply curious about DevOps, automation, backend architecture, and everything that<br>involves problem-solving at scale. Learning is my fuel — execution is my identity.<br><br>Techy. Hungry. Always building.
+Hey there, I'm **Manvesh Bhoyar** — a Computer Science student and Full-Stack Developer passionate about building software that solves real-world problems.<br><br>
+
+I enjoy developing scalable web applications and exploring AI, DevOps, cloud technologies, backend architecture, and modern software engineering. I believe great products are built through clean code, thoughtful design, and continuous improvement.<br><br>
+
+I also contribute to open source, experiment with new technologies, and enjoy turning ideas into reliable, user-focused software.<br><br>
+
+**Code. Build. Ship.** 🚀
 
 
 ## 🌐 Socials:
