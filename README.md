@@ -8,6 +8,12 @@ I work across modern web technologies, AI/ML, backend systems, databases, and cl
 
 **Build. Ship. Improve. 🚀**
 
+<p align="center">
+  <img src="./animation%20working%20GIF%20by%20Cartoon%20Hangover.gif" 
+       alt="Developer animation" 
+       width="500">
+</p>
+
 ---
 
 ## 🌐 Socials
